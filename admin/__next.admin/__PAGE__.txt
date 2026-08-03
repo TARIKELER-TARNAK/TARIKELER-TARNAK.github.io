@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[13886,["/_next/static/chunks/fd79b6dfcf6e7a29.js","/_next/static/chunks/34fd0c5ebcd88534.js","/_next/static/chunks/ff980d6723e53921.js","/_next/static/chunks/9d3d1e37ff01f995.js","/_next/static/chunks/79120c5dc48c988f.js"],"LoginForm"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/b71c1cfea9076b4b.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"ZbVtPtGKV_DMu75oX0Das","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen w-full px-4 sm:px-6 py-8","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/9d3d1e37ff01f995.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/79120c5dc48c988f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
