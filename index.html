@@ -3,10 +3,45 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Tarık Eler - Geliştirici | VS Code Eklentileri, Masaüstü Uygulamalar ve AI Coding Agent'lar" />
-<meta property="og:title" content="Tarık Eler | Portfolio" />
-<meta property="og:description" content="Geliştirici portfolyosu - projeler, yetenekler ve iletişim" />
-<title>Tarık Eler | Portfolio</title>
+<title>Tarık Eler (Tarnak) | Geliştirici Portfolio — TARIKELER-TARNAK</title>
+<meta name="description" content="Tarık Eler (Tarnak / TARIKELER-TARNAK) — Türkiye'den yazılım geliştirici. VS Code eklentileri, masaüstü uygulamalar ve AI coding agent'lar üzerinde çalışıyorum. Projelerim, yeteneklerim ve iletişim bilgilerim." />
+<meta name="keywords" content="Tarık Eler, Tarik Eler, TARIKELER, TARIKELER-TARNAK, Tarnak, tarikeler, tarikeler tarnak, tarikeler-tarnak, yazılım geliştirici, developer, VS Code extension, masaüstü uygulama, AI coding agent, GitHub" />
+<meta name="author" content="Tarık Eler" />
+<meta name="robots" content="index, follow" />
+<meta name="theme-color" content="#0d1117" />
+<link rel="canonical" href="https://tarikeler-tarnak.github.io/" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="profile" />
+<meta property="og:url" content="https://tarikeler-tarnak.github.io/" />
+<meta property="og:site_name" content="Tarık Eler" />
+<meta property="og:title" content="Tarık Eler (Tarnak) | Portfolio" />
+<meta property="og:description" content="Tarık Eler (TARIKELER-TARNAK) — Türkiye'den yazılım geliştirici. VS Code eklentileri, masaüstü uygulamalar ve AI projeleri." />
+<meta property="og:locale" content="tr_TR" />
+<meta property="profile:first_name" content="Tarık" />
+<meta property="profile:last_name" content="Eler" />
+<meta property="profile:username" content="TARIKELER-TARNAK" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Tarık Eler (Tarnak) | Portfolio" />
+<meta name="twitter:description" content="Tarık Eler (TARIKELER-TARNAK) — Türkiye'den yazılım geliştirici. VS Code eklentileri, masaüstü uygulamalar ve AI projeleri." />
+
+<!-- Structured Data (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tarık Eler",
+  "alternateName": ["Tarnak", "TARIKELER", "TARIKELER-TARNAK", "Tarik Eler"],
+  "url": "https://tarikeler-tarnak.github.io/",
+  "sameAs": ["https://github.com/TARIKELER-TARNAK"],
+  "jobTitle": "Software Developer",
+  "nationality": "Turkish",
+  "address": { "@type": "PostalAddress", "addressCountry": "TR", "addressLocality": "Türkiye" }
+}
+</script>
+
 <style>
   :root {
     --bg: #0d1117;
@@ -27,7 +62,8 @@
   .avatar {
     width: 120px; height: 120px; border-radius: 50%;
     border: 3px solid var(--accent2); object-fit: cover; margin-bottom: 20px;
-    background: var(--card);
+    background: var(--card); display: inline-flex; align-items: center; justify-content: center;
+    font-size: 3.5rem;
   }
   h1 { font-size: 2.4rem; margin-bottom: 8px; }
   .subtitle { color: var(--muted); font-size: 1.15rem; margin-bottom: 16px; }
@@ -62,6 +98,7 @@
     transition: border-color .15s;
   }
   .links a:hover { border-color: var(--accent2); }
+  .alias { color: var(--muted); font-size: 0.95rem; margin-top: 8px; }
 </style>
 </head>
 <body>
@@ -70,6 +107,7 @@
   <div class="avatar">👨‍💻</div>
   <h1>Tarık Eler</h1>
   <p class="subtitle">Geliştirici · VS Code Eklentileri · Masaüstü Uygulamalar · AI Coding Agent'lar</p>
+  <p class="alias">Tarık Eler · Tarnak · TARIKELER-TARNAK — Türkiye 🇹🇷</p>
   <div class="badges">
     <span class="badge">Python</span>
     <span class="badge">TypeScript</span>
@@ -87,7 +125,7 @@
     <a class="card" href="https://github.com/TARIKELER-TARNAK/Player">
       <h3>🎬 Player</h3>
       <p>Müzik, video ve ses oynatıcı. Eklenti sistemi ve AI entegrasyonu ile 5 platformda çalışır.</p>
-      <div class="meta">⭐ #1 Projem</div>
+      <div class="meta">⭐ Amiral Gemisi</div>
     </a>
     <a class="card" href="https://github.com/TARIKELER-TARNAK/codehub-vsc">
       <h3>🧩 CodeHub</h3>
@@ -134,7 +172,7 @@
     <a href="https://github.com/TARIKELER-TARNAK">GitHub</a>
     <a href="https://github.com/TARIKELER-TARNAK/TARIKELER-TARNAK">Profil Repom</a>
   </div>
-  <p>© <span id="year"></span> Tarık Eler · İş birliği ve yeni projeler için bana ulaşabilirsin</p>
+  <p>© <span id="year"></span> Tarık Eler (Tarnak) · İş birliği ve yeni projeler için bana ulaşabilirsin</p>
 </footer>
 
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
