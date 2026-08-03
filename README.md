@@ -2,7 +2,7 @@
 
 Kişisel portfolio web sitem. **GitHub Pages** üzerinde yayınlanır.
 
-## 🌐 Canlı: [tarikeler.github.io](https://tarikeler.github.io)
+## 🌐 Canlı: [tariktr1099.github.io](https://tariktr1099.github.io)
 
 ## 📄 İçerik
 
@@ -19,7 +19,7 @@ Kişisel portfolio web sitem. **GitHub Pages** üzerinde yayınlanır.
 
 ```bash
 # 1) Repoyu kopyala
-git clone https://github.com/TARIKTR1099/tarikeler.github.io.git
+git clone https://github.com/TARIKTR1099/TARIKTR1099.github.io.git
 cd tarikeler.github.io
 
 # 2) Herhangi bir statik sunucu ile aç
