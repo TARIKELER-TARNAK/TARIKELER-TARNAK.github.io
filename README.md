@@ -2,7 +2,7 @@
 
 Kişisel portfolio web sitem. **GitHub Pages** üzerinde yayınlanır.
 
-## 🌐 Canlı: [tarikelertarnak.github.io](https://tarikelertarnak.github.io)
+## 🌐 Canlı: [tarikeler-tarnak.github.io](https://tarikeler-tarnak.github.io)
 
 ## 📄 İçerik
 
