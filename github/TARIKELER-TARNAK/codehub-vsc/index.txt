@@ -9,14 +9,462 @@ d:I[68027,[],"default"]
 :HL["/_next/static/chunks/f80a4ada0ba97c28.css","style"]
 :HL["/_next/static/chunks/d7514fcafa47ab8a.css","style"]
 :HL["/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"b":"HrXvJ0v5OXdmOmKnLtsy0","c":["","github","TARIKELER-TARNAK","codehub-vsc",""],"q":"","i":false,"f":[[["",{"children":["github",{"children":[["owner","TARIKELER-TARNAK","d"],{"children":[["repo","codehub-vsc","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/f80a4ada0ba97c28.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/d7514fcafa47ab8a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/fd79b6dfcf6e7a29.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/34fd0c5ebcd88534.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/ff980d6723e53921.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/d8f1313a458f2298.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/ca571551e16485b7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/27c1a6f182a82478.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+0:{"P":null,"b":"5p2CiPgFLf5bngOkFMTvt","c":["","github","TARIKELER-TARNAK","codehub-vsc",""],"q":"","i":false,"f":[[["",{"children":["github",{"children":[["owner","TARIKELER-TARNAK","d"],{"children":[["repo","codehub-vsc","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/f80a4ada0ba97c28.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/d7514fcafa47ab8a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/fd79b6dfcf6e7a29.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/34fd0c5ebcd88534.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/ff980d6723e53921.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/d8f1313a458f2298.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/ca571551e16485b7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/27c1a6f182a82478.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 e:I[1661,["/_next/static/chunks/fd79b6dfcf6e7a29.js","/_next/static/chunks/34fd0c5ebcd88534.js","/_next/static/chunks/ff980d6723e53921.js"],"Providers"]
-f:I[73477,["/_next/static/chunks/fd79b6dfcf6e7a29.js","/_next/static/chunks/34fd0c5ebcd88534.js","/_next/static/chunks/ff980d6723e53921.js","/_next/static/chunks/d8f1313a458f2298.js","/_next/static/chunks/ca571551e16485b7.js","/_next/static/chunks/27c1a6f182a82478.js"],"Navigation"]
 2:["$","html",null,{"lang":"tr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"TARIK ELER\",\"alternateName\":[\"Tarnak\",\"TARIKELER\",\"TARIKELER-TARNAK\"],\"url\":\"https://tarikeler-tarnak.github.io/\",\"sameAs\":[\"https://github.com/TARIKELER-TARNAK\"],\"jobTitle\":\"Web Developer & Creator\",\"nationality\":\"Turkish\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"TR\",\"addressLocality\":\"Türkiye\"}}"}}]}],["$","body",null,{"className":"montserrat_a93acac-module__zTMSZW__className antialiased","children":["$","$Le",null,{"defaultTheme":"dark","backgroundImage":"","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]
-5:["$","div",null,{"className":"min-h-screen w-full relative","children":[["$","$Lf",null,{"content":{"hero":{"name":"TARIK ELER","tagline":"Web Developer &amp; Creator","exploreLabel":"Explore Projects","connectLabel":"Let's Connect","emoji":"🚀"},"nav":{"ctaLabel":"GitHub","githubRepo":"https://github.com/TARIKELER-TARNAK","items":[{"title":"Projects","href":"/projects"},{"title":"GitHub","href":"/github"},{"title":"Blog","href":"/blog"},{"title":"Chat","href":"/chat"},{"title":"Contact","href":"/#contact"}]},"social":[{"name":"GitHub","href":"https://github.com/TARIKELER-TARNAK","icon":"mdi:github"},{"name":"Instagram","href":"https://www.instagram.com/","icon":"mdi:instagram"},{"name":"YouTube","href":"https://www.youtube.com/","icon":"mdi:youtube"},{"name":"TikTok","href":"https://www.tiktok.com/","icon":"ic:baseline-tiktok"}],"about":{"subtitle":"ABOUT ME","title":"A Glimpse Into My World","description":"Learn more about me, what I do, and what I'm passionate about.","whoTitle":"Who Am I?","whoText":"I'm a web developer who loves to code and build things. I'm passionate about web development, design, and technology.","toolboxTitle":"My Toolbox","toolboxDescription":"Explore the technologies I use to build projects and websites.","toolbox":[{"label":"Next.js","icon":"devicon:nextjs"},{"label":"Tailwind","icon":"devicon:tailwindcss"},{"label":"TypeScript","icon":"devicon:typescript"},{"label":"Docker","icon":"devicon:docker"},{"label":"PostgreSQL","icon":"devicon:postgresql"},{"label":"React","icon":"devicon:react"},{"label":"Node.js","icon":"devicon:nodejs"},{"label":"Git","icon":"devicon:git"},{"label":"C#","icon":"devicon:csharp"}],"beyondTitle":"Beyond the Code","beyondDescription":"Explore my interests, hobbies, and what I do when I'm not coding.","interests":[{"label":"Hardware","icon":"mdi:laptop","content":"I love building and tinkering with computers and other tech."},{"label":"Gaming","icon":"mdi:gamepad-variant","content":"I enjoy playing video games, especially with friends."},{"label":"Fitness","icon":"mdi:gym","content":"I like to stay active and go to the gym regularly."},{"label":"Music","icon":"mdi:music","content":"I'm a big fan of music and love discovering new artists and genres."},{"label":"Cybersecurity","icon":"mdi:shield-lock","content":"I enjoy pentesting, CTF challenges, and hunting for vulnerabilities on bug bounty platforms."}],"securityTitle":"Cybersecurity & CTF","securityText":"Passionate about cybersecurity. I enjoy learning new techniques and taking on security challenges.","securityTools":[{"label":"TryHackMe","icon":"simple-icons:tryhackme"},{"label":"HackerOne","icon":"simple-icons:hackerone"}]},"projects":{"subtitle":"PROJECTS","title":"Featured Projects","description":"A selection of projects I've worked on recently.","items":[{"title":"PixelShield","image":"/projects/pixelshield.png","description":"A DDoS protection service designed for Minecraft servers, offering protocol-aware filtering for Java, Bedrock, and Geyser servers.","projectLink":"https://www.pixelshield.net"},{"title":"Mythora.de","notice":"[Under Development]","image":"/projects/mythora.png","description":"A fully self-developed German Minecraft SMP network that welcomes players from all around the world.","projectLink":"https://mythora.de"},{"title":"Fruity Dev","notice":"[Under Development]","image":"/projects/fruity-dev.png","description":"Professional web development services, specializing in building high-quality, scalable web applications.","projectLink":"https://fruity.dev"},{"title":"Portfolio Website","notice":"[Current]","image":"/projects/portfolio.png","description":"This portfolio website showcases my skills, projects, and experiences. Built with Next.js and TypeScript.","projectLink":"/"}]},"github":{"subtitle":"GITHUB","title":"GitHub Projects","description":"My public repositories, pulled live from my GitHub profile."},"chat":{"subtitle":"CHAT","title":"Talk To Me","description":"Leave a message or just say hello. It shows up right away."},"profile":{"firstName":"TARIK","lastName":"ELER","displayName":"TARIKELER","nickname":"Tarnak","title":"Web Developer & Creator","profileImage":""},"contact":{"subtitle":"CONTACT","title":"Contact Me","description":"Feel free to reach out for collaborations or just a friendly hello!","footerText":"Don't be shy, whether it's a quick question, a big idea, or just saying hi","successTitle":"Message has been delivered!","successText":"Thank you for reaching out! I've received your message and will get back to you as soon as possible."},"settings":{"githubUsername":"TARIKELER-TARNAK","defaultTheme":"dark","backgroundImage":""},"footer":{"copyright":"TARIKELER"}}}],"$L10"]}]
-11:I[22016,["/_next/static/chunks/fd79b6dfcf6e7a29.js","/_next/static/chunks/34fd0c5ebcd88534.js","/_next/static/chunks/ff980d6723e53921.js","/_next/static/chunks/d8f1313a458f2298.js","/_next/static/chunks/ca571551e16485b7.js","/_next/static/chunks/27c1a6f182a82478.js"],""]
-12:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/b71c1cfea9076b4b.js"],"IconMark"]
-10:["$","div",null,{"className":"relative z-10 mx-auto flex w-full max-w-3xl flex-col items-center gap-4 px-4 sm:px-6 py-24 sm:py-32 text-center","children":[["$","p",null,{"className":"text-2xl","children":"😕"}],["$","h1",null,{"className":"text-2xl sm:text-3xl font-bold","children":"Repo bulunamadı"}],["$","p",null,{"className":"text-foreground-500","children":["TARIKELER-TARNAK","/","codehub-vsc"," ","yüklenemedi. Repo özel olabilir veya kaldırılmış olabilir."]}],["$","$L11",null,{"href":"/github","className":"text-primary font-semibold hover:underline","children":"← GitHub Explorer'a dön"}]]}]
-c:[["$","title","0",{"children":"codehub-vsc · TARIKELER-TARNAK — GitHub Explorer"}],["$","meta","1",{"name":"description","content":"TARIK ELER (Tarnak) - Web developer & creator. Next.js, TypeScript ve yapay zeka üzerine projeler geliştiriyorum. Projelerim, yeteneklerim ve iletişim bilgilerim."}],["$","link","2",{"rel":"author","href":"https://tarikeler-tarnak.github.io"}],["$","meta","3",{"name":"author","content":"TARIK ELER"}],["$","meta","4",{"name":"keywords","content":"TARIK ELER,Tarik Eler,TARIKELER,TARIKELER-TARNAK,Tarnak,tarikeler,web developer,Next.js,TypeScript,portfolio,yazılım geliştirici"}],["$","meta","5",{"name":"creator","content":"TARIK ELER"}],["$","meta","6",{"name":"publisher","content":"TARIK ELER"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"yandex-verification","content":"eb02552a5a4b93c4"}],["$","link","9",{"rel":"canonical","href":"https://tarikeler-tarnak.github.io/"}],["$","meta","10",{"name":"google-site-verification","content":"O9ZhYPivbHyTqEL7-zf6IaATz_lpHYISOmGheX2tE08"}],["$","meta","11",{"property":"og:title","content":"TARIK ELER | Portfolio"}],["$","meta","12",{"property":"og:description","content":"TARIK ELER (Tarnak) - Web developer & creator. Projelerim, yeteneklerim ve iletişim bilgilerim."}],["$","meta","13",{"property":"og:url","content":"https://tarikeler-tarnak.github.io/"}],["$","meta","14",{"property":"og:site_name","content":"TARIK ELER"}],["$","meta","15",{"property":"og:locale","content":"tr_TR"}],["$","meta","16",{"property":"og:image","content":"https://tarikeler-tarnak.github.io/tarnak.svg"}],["$","meta","17",{"property":"og:image:width","content":"512"}],["$","meta","18",{"property":"og:image:height","content":"512"}],["$","meta","19",{"property":"og:image:alt","content":"TARIK ELER"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary"}],["$","meta","22",{"name":"twitter:title","content":"TARIK ELER | Portfolio"}],["$","meta","23",{"name":"twitter:description","content":"TARIK ELER (Tarnak) - Web developer & creator."}],["$","meta","24",{"name":"twitter:image","content":"https://tarikeler-tarnak.github.io/tarnak.svg"}],["$","link","25",{"rel":"icon","href":"/icon.svg?icon.d4849e45.svg","sizes":"any","type":"image/svg+xml"}],["$","$L12","26",{}]]
+f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/b71c1cfea9076b4b.js"],"IconMark"]
+c:[["$","title","0",{"children":"codehub-vsc · TARIKELER-TARNAK — GitHub Explorer"}],["$","meta","1",{"name":"description","content":"TARIK ELER (Tarnak) - Web developer & creator. Next.js, TypeScript ve yapay zeka üzerine projeler geliştiriyorum. Projelerim, yeteneklerim ve iletişim bilgilerim."}],["$","link","2",{"rel":"author","href":"https://tarikeler-tarnak.github.io"}],["$","meta","3",{"name":"author","content":"TARIK ELER"}],["$","meta","4",{"name":"keywords","content":"TARIK ELER,Tarik Eler,TARIKELER,TARIKELER-TARNAK,Tarnak,tarikeler,web developer,Next.js,TypeScript,portfolio,yazılım geliştirici"}],["$","meta","5",{"name":"creator","content":"TARIK ELER"}],["$","meta","6",{"name":"publisher","content":"TARIK ELER"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"yandex-verification","content":"eb02552a5a4b93c4"}],["$","link","9",{"rel":"canonical","href":"https://tarikeler-tarnak.github.io/"}],["$","meta","10",{"name":"google-site-verification","content":"O9ZhYPivbHyTqEL7-zf6IaATz_lpHYISOmGheX2tE08"}],["$","meta","11",{"property":"og:title","content":"TARIK ELER | Portfolio"}],["$","meta","12",{"property":"og:description","content":"TARIK ELER (Tarnak) - Web developer & creator. Projelerim, yeteneklerim ve iletişim bilgilerim."}],["$","meta","13",{"property":"og:url","content":"https://tarikeler-tarnak.github.io/"}],["$","meta","14",{"property":"og:site_name","content":"TARIK ELER"}],["$","meta","15",{"property":"og:locale","content":"tr_TR"}],["$","meta","16",{"property":"og:image","content":"https://tarikeler-tarnak.github.io/tarnak.svg"}],["$","meta","17",{"property":"og:image:width","content":"512"}],["$","meta","18",{"property":"og:image:height","content":"512"}],["$","meta","19",{"property":"og:image:alt","content":"TARIK ELER"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary"}],["$","meta","22",{"name":"twitter:title","content":"TARIK ELER | Portfolio"}],["$","meta","23",{"name":"twitter:description","content":"TARIK ELER (Tarnak) - Web developer & creator."}],["$","meta","24",{"name":"twitter:image","content":"https://tarikeler-tarnak.github.io/tarnak.svg"}],["$","link","25",{"rel":"icon","href":"/icon.svg?icon.d4849e45.svg","sizes":"any","type":"image/svg+xml"}],["$","$Lf","26",{}]]
 8:null
+10:I[88871,["/_next/static/chunks/fd79b6dfcf6e7a29.js","/_next/static/chunks/34fd0c5ebcd88534.js","/_next/static/chunks/ff980d6723e53921.js","/_next/static/chunks/d8f1313a458f2298.js","/_next/static/chunks/ca571551e16485b7.js","/_next/static/chunks/27c1a6f182a82478.js"],"GithubRepoView"]
+11:T188f,# CodeHub
+
+**Terminal & AI Agent Manager for VS Code**
+
+CodeHub is a powerful VS Code extension that centralizes your terminal, AI coding agents, and developer tools into one unified interface. Stop switching between multiple terminals — manage everything from CodeHub's activity bar panel.
+
+---
+
+## ✨ Features
+
+### 🚀 OpenCode Integration
+- **OpenCode CLI** — Official SDK integration: opens a terminal beside your editor with `opencode --port <port>`, automatically adds active file references
+- **OpenCode Desktop** — OpenCode web panel as an iframe (requires `opencode` CLI)
+- **OpenCode VSCode** — OpenCode in VS Code's integrated terminal panel
+
+### 🤖 AI Agent Library
+14 pre-configured AI coding agents ready to launch:
+
+| Agent | Command | Description |
+|-------|---------|-------------|
+| **Claude Code** | `claude` | Anthropic AI coding agent |
+| **OpenCode CLI** | `opencode --port` | Multi-provider AI agent (official) |
+| **OpenCode Desktop** | `opencode` | OpenCode web panel |
+| **Codex CLI** | `codex` | OpenAI coding agent CLI |
+| **Kilo CLI** | `kilo` | 500+ model AI agent |
+| **Gemini CLI** | `gemini` | Google Gemini CLI |
+| **Aider** | `aider --model sonnet` | AI pair programming |
+| **GitHub Copilot CLI** | `copilot` | GitHub Copilot in terminal |
+| **Amazon Q** | `q` | AWS AI coding agent |
+| **Goose** | `goose` | Block AI coding agent |
+| **Kiro CLI** | `kiro-cli chat` | Kiro interactive AI CLI |
+| **Cline** | `cline` | VS Code AI coding agent |
+| **Roo Code** | `roo` | VS Code AI coding agent |
+
+### 📋 Session Manager
+- **Save sessions** — Save your currently open terminals as named sessions
+- **Restore sessions** — Reopen any saved session with all terminals restored
+- **Persist across restarts** — Sessions survive VS Code restarts
+- **Per-session metadata** — Timestamp, workspace, terminal count
+
+### 📁 Recent Projects
+- **Auto-track** — Every folder you open is automatically tracked
+- **Quick open** — Click any recent project to reopen it
+- **History management** — Remove individual projects or clear all history
+
+### 🔌 OmniRoute Integration
+- **Auto-detect** — Checks if OmniRoute is running on `localhost:20128`
+- **Auto-start** — If enabled, starts OmniRoute in a hidden terminal automatically
+- **Status indicator** — Green/grey badge in side panel shows OmniRoute status
+
+### ⚡ Terminal Profiles
+- **Custom profiles** — Create profiles with custom shell, executable, arguments, working directory
+- **3 launch modes** — Fullscreen (`ViewColumn.One`), VSCode Panel, Side Panel (`ViewColumn.Two`)
+- **Drag-free ordering** — Use up/down buttons or type order number directly
+- **Duplicate, edit, delete** — Full profile management
+- **Default profile** — Set any profile as default with one click (★)
+
+### 🎨 Smart UI
+- **Status bar integration** — Shows running terminal count, click to run default
+- **Keyboard shortcuts** — `Ctrl+Alt+C` to run default profile
+- **Export/Import** — Share profiles as JSON files
+- **Turkish / English** — Full i18n support
+- **Profile icons** — Choose from 100+ VS Code codicons
+- **Install detection** — Automatically detects if CLI tools are installed
+
+---
+
+## 📦 Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+Shift+X` to open Extensions
+3. Search for "CodeHub"
+4. Click Install
+
+### From VSIX File
+1. Download `codehub-1.0.0.vsix` from the [latest release](https://github.com/TARIKELER-TARNAK/codehub-vsc/releases/tag/v1.0.0)
+2. In VS Code, press `Ctrl+Shift+P` → "Extensions: Install from VSIX..."
+3. Select the downloaded file
+
+---
+
+## 🚀 Quick Start
+
+1. Click the **CodeHub icon** in the **Activity Bar** (left sidebar)
+2. Click **+ Profil Ekle** or **📋 Kütüphaneden Ekle** to add profiles
+3. Click any profile to launch it
+4. Use ▶ to open OpenCode, 📄 to add files to OpenCode
+5. Create sessions with 💾 Session Kaydet
+
+### Keyboard Shortcuts
+
+| Shortcut | Action |
+|----------|--------|
+| `Ctrl+Alt+C` | Run default profile |
+| Click Status Bar | Run default profile |
+| ▶ (Panel) | OpenCode launcher |
+
+---
+
+## ⚙️ Settings
+
+All settings are in VS Code settings under the `ch.` prefix.
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `ch.lang` | `"tr"` | Language (`"tr"` / `"en"`) |
+| `ch.def` | `""` | Default profile ID (empty = first profile) |
+| `ch.startupMode` | `"default"` | Auto-start on VS Code launch |
+| `ch.startupDelay` | `1200` | Delay before auto-start (ms) |
+| `ch.reuse` | `true` | Reuse existing terminal if available |
+| `ch.omniRoute` | `false` | Enable OmniRoute integration |
+| `ch.ocPath` | `"opencode"` | OpenCode CLI path |
+
+### Profile Settings
+
+Profiles are stored in `ch.profiles` as an array. Each profile has:
+
+```json
+{
+  "id": "unique-id",
+  "name": "Claude Code",
+  "icon": "comment-discussion",
+  "executable": "claude",
+  "arguments": "",
+  "shell": "cmd",
+  "shellPath": "cmd.exe",
+  "cwd": "C:\\Projects",
+  "category": "ai",
+  "checkCommand": "claude --version"
+}
+```
+
+---
+
+## 📂 Project Structure
+
+```
+├── src/extension.ts          # Main extension code (~480 lines)
+├── media/                    # Icons and assets
+│   ├── icon.png              # Extension icon
+│   ├── activity-icon-dark.svg  # Activity bar icon (dark theme)
+│   ├── activity-icon-light.svg # Activity bar icon (light theme)
+│   ├── mark-dark.svg         # Terminal icon (dark)
+│   └── mark-light.svg        # Terminal icon (light)
+├── out/extension.js          # Compiled output
+├── package.json              # Extension manifest
+├── tsconfig.json             # TypeScript config
+└── .vscodeignore             # Package exclusion list
+```
+
+---
+
+## 🧪 Development
+
+```bash
+# Install dependencies
+npm install
+
+# Watch mode
+npm run dev
+
+# Build
+npm run build
+
+# Package VSIX
+npm run package
+```
+
+---
+
+## 📝 License
+
+MIT License — see [LICENSE](https://raw.githubusercontent.com/TARIKELER-TARNAK/codehub-vsc/master/LICENSE).
+
+---
+
+## 🙏 Acknowledgments
+
+- Built with [VS Code Extension API](https://code.visualstudio.com/api)
+- Icons from [VS Code Codicons](https://microsoft.github.io/vscode-codicons/)
+- Inspired by OpenCode SDK (`@opencode-ai/vscode`)
+12:T233e,<h1>CodeHub</h1>
+<p><strong>Terminal &amp; AI Agent Manager for VS Code</strong></p>
+<p>CodeHub is a powerful VS Code extension that centralizes your terminal, AI coding agents, and developer tools into one unified interface. Stop switching between multiple terminals — manage everything from CodeHub&#39;s activity bar panel.</p>
+<hr>
+<h2>✨ Features</h2>
+<h3>🚀 OpenCode Integration</h3>
+<ul>
+<li><strong>OpenCode CLI</strong> — Official SDK integration: opens a terminal beside your editor with <code>opencode --port &lt;port&gt;</code>, automatically adds active file references</li>
+<li><strong>OpenCode Desktop</strong> — OpenCode web panel as an iframe (requires <code>opencode</code> CLI)</li>
+<li><strong>OpenCode VSCode</strong> — OpenCode in VS Code&#39;s integrated terminal panel</li>
+</ul>
+<h3>🤖 AI Agent Library</h3>
+<p>14 pre-configured AI coding agents ready to launch:</p>
+<table>
+<thead>
+<tr>
+<th>Agent</th>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Claude Code</strong></td>
+<td><code>claude</code></td>
+<td>Anthropic AI coding agent</td>
+</tr>
+<tr>
+<td><strong>OpenCode CLI</strong></td>
+<td><code>opencode --port</code></td>
+<td>Multi-provider AI agent (official)</td>
+</tr>
+<tr>
+<td><strong>OpenCode Desktop</strong></td>
+<td><code>opencode</code></td>
+<td>OpenCode web panel</td>
+</tr>
+<tr>
+<td><strong>Codex CLI</strong></td>
+<td><code>codex</code></td>
+<td>OpenAI coding agent CLI</td>
+</tr>
+<tr>
+<td><strong>Kilo CLI</strong></td>
+<td><code>kilo</code></td>
+<td>500+ model AI agent</td>
+</tr>
+<tr>
+<td><strong>Gemini CLI</strong></td>
+<td><code>gemini</code></td>
+<td>Google Gemini CLI</td>
+</tr>
+<tr>
+<td><strong>Aider</strong></td>
+<td><code>aider --model sonnet</code></td>
+<td>AI pair programming</td>
+</tr>
+<tr>
+<td><strong>GitHub Copilot CLI</strong></td>
+<td><code>copilot</code></td>
+<td>GitHub Copilot in terminal</td>
+</tr>
+<tr>
+<td><strong>Amazon Q</strong></td>
+<td><code>q</code></td>
+<td>AWS AI coding agent</td>
+</tr>
+<tr>
+<td><strong>Goose</strong></td>
+<td><code>goose</code></td>
+<td>Block AI coding agent</td>
+</tr>
+<tr>
+<td><strong>Kiro CLI</strong></td>
+<td><code>kiro-cli chat</code></td>
+<td>Kiro interactive AI CLI</td>
+</tr>
+<tr>
+<td><strong>Cline</strong></td>
+<td><code>cline</code></td>
+<td>VS Code AI coding agent</td>
+</tr>
+<tr>
+<td><strong>Roo Code</strong></td>
+<td><code>roo</code></td>
+<td>VS Code AI coding agent</td>
+</tr>
+</tbody></table>
+<h3>📋 Session Manager</h3>
+<ul>
+<li><strong>Save sessions</strong> — Save your currently open terminals as named sessions</li>
+<li><strong>Restore sessions</strong> — Reopen any saved session with all terminals restored</li>
+<li><strong>Persist across restarts</strong> — Sessions survive VS Code restarts</li>
+<li><strong>Per-session metadata</strong> — Timestamp, workspace, terminal count</li>
+</ul>
+<h3>📁 Recent Projects</h3>
+<ul>
+<li><strong>Auto-track</strong> — Every folder you open is automatically tracked</li>
+<li><strong>Quick open</strong> — Click any recent project to reopen it</li>
+<li><strong>History management</strong> — Remove individual projects or clear all history</li>
+</ul>
+<h3>🔌 OmniRoute Integration</h3>
+<ul>
+<li><strong>Auto-detect</strong> — Checks if OmniRoute is running on <code>localhost:20128</code></li>
+<li><strong>Auto-start</strong> — If enabled, starts OmniRoute in a hidden terminal automatically</li>
+<li><strong>Status indicator</strong> — Green/grey badge in side panel shows OmniRoute status</li>
+</ul>
+<h3>⚡ Terminal Profiles</h3>
+<ul>
+<li><strong>Custom profiles</strong> — Create profiles with custom shell, executable, arguments, working directory</li>
+<li><strong>3 launch modes</strong> — Fullscreen (<code>ViewColumn.One</code>), VSCode Panel, Side Panel (<code>ViewColumn.Two</code>)</li>
+<li><strong>Drag-free ordering</strong> — Use up/down buttons or type order number directly</li>
+<li><strong>Duplicate, edit, delete</strong> — Full profile management</li>
+<li><strong>Default profile</strong> — Set any profile as default with one click (★)</li>
+</ul>
+<h3>🎨 Smart UI</h3>
+<ul>
+<li><strong>Status bar integration</strong> — Shows running terminal count, click to run default</li>
+<li><strong>Keyboard shortcuts</strong> — <code>Ctrl+Alt+C</code> to run default profile</li>
+<li><strong>Export/Import</strong> — Share profiles as JSON files</li>
+<li><strong>Turkish / English</strong> — Full i18n support</li>
+<li><strong>Profile icons</strong> — Choose from 100+ VS Code codicons</li>
+<li><strong>Install detection</strong> — Automatically detects if CLI tools are installed</li>
+</ul>
+<hr>
+<h2>📦 Installation</h2>
+<h3>From VS Code Marketplace</h3>
+<ol>
+<li>Open VS Code</li>
+<li>Press <code>Ctrl+Shift+X</code> to open Extensions</li>
+<li>Search for &quot;CodeHub&quot;</li>
+<li>Click Install</li>
+</ol>
+<h3>From VSIX File</h3>
+<ol>
+<li>Download <code>codehub-1.0.0.vsix</code> from the <a href="https://github.com/TARIKELER-TARNAK/codehub-vsc/releases/tag/v1.0.0">latest release</a></li>
+<li>In VS Code, press <code>Ctrl+Shift+P</code> → &quot;Extensions: Install from VSIX...&quot;</li>
+<li>Select the downloaded file</li>
+</ol>
+<hr>
+<h2>🚀 Quick Start</h2>
+<ol>
+<li>Click the <strong>CodeHub icon</strong> in the <strong>Activity Bar</strong> (left sidebar)</li>
+<li>Click <strong>+ Profil Ekle</strong> or <strong>📋 Kütüphaneden Ekle</strong> to add profiles</li>
+<li>Click any profile to launch it</li>
+<li>Use ▶ to open OpenCode, 📄 to add files to OpenCode</li>
+<li>Create sessions with 💾 Session Kaydet</li>
+</ol>
+<h3>Keyboard Shortcuts</h3>
+<table>
+<thead>
+<tr>
+<th>Shortcut</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>Ctrl+Alt+C</code></td>
+<td>Run default profile</td>
+</tr>
+<tr>
+<td>Click Status Bar</td>
+<td>Run default profile</td>
+</tr>
+<tr>
+<td>▶ (Panel)</td>
+<td>OpenCode launcher</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>⚙️ Settings</h2>
+<p>All settings are in VS Code settings under the <code>ch.</code> prefix.</p>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Default</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>ch.lang</code></td>
+<td><code>&quot;tr&quot;</code></td>
+<td>Language (<code>&quot;tr&quot;</code> / <code>&quot;en&quot;</code>)</td>
+</tr>
+<tr>
+<td><code>ch.def</code></td>
+<td><code>&quot;&quot;</code></td>
+<td>Default profile ID (empty = first profile)</td>
+</tr>
+<tr>
+<td><code>ch.startupMode</code></td>
+<td><code>&quot;default&quot;</code></td>
+<td>Auto-start on VS Code launch</td>
+</tr>
+<tr>
+<td><code>ch.startupDelay</code></td>
+<td><code>1200</code></td>
+<td>Delay before auto-start (ms)</td>
+</tr>
+<tr>
+<td><code>ch.reuse</code></td>
+<td><code>true</code></td>
+<td>Reuse existing terminal if available</td>
+</tr>
+<tr>
+<td><code>ch.omniRoute</code></td>
+<td><code>false</code></td>
+<td>Enable OmniRoute integration</td>
+</tr>
+<tr>
+<td><code>ch.ocPath</code></td>
+<td><code>&quot;opencode&quot;</code></td>
+<td>OpenCode CLI path</td>
+</tr>
+</tbody></table>
+<h3>Profile Settings</h3>
+<p>Profiles are stored in <code>ch.profiles</code> as an array. Each profile has:</p>
+<pre><code class="language-json">{
+  &quot;id&quot;: &quot;unique-id&quot;,
+  &quot;name&quot;: &quot;Claude Code&quot;,
+  &quot;icon&quot;: &quot;comment-discussion&quot;,
+  &quot;executable&quot;: &quot;claude&quot;,
+  &quot;arguments&quot;: &quot;&quot;,
+  &quot;shell&quot;: &quot;cmd&quot;,
+  &quot;shellPath&quot;: &quot;cmd.exe&quot;,
+  &quot;cwd&quot;: &quot;C:\\Projects&quot;,
+  &quot;category&quot;: &quot;ai&quot;,
+  &quot;checkCommand&quot;: &quot;claude --version&quot;
+}
+</code></pre>
+<hr>
+<h2>📂 Project Structure</h2>
+<pre><code>├── src/extension.ts          # Main extension code (~480 lines)
+├── media/                    # Icons and assets
+│   ├── icon.png              # Extension icon
+│   ├── activity-icon-dark.svg  # Activity bar icon (dark theme)
+│   ├── activity-icon-light.svg # Activity bar icon (light theme)
+│   ├── mark-dark.svg         # Terminal icon (dark)
+│   └── mark-light.svg        # Terminal icon (light)
+├── out/extension.js          # Compiled output
+├── package.json              # Extension manifest
+├── tsconfig.json             # TypeScript config
+└── .vscodeignore             # Package exclusion list
+</code></pre>
+<hr>
+<h2>🧪 Development</h2>
+<pre><code class="language-bash"># Install dependencies
+npm install
+
+# Watch mode
+npm run dev
+
+# Build
+npm run build
+
+# Package VSIX
+npm run package
+</code></pre>
+<hr>
+<h2>📝 License</h2>
+<p>MIT License — see <a href="https://raw.githubusercontent.com/TARIKELER-TARNAK/codehub-vsc/master/LICENSE">LICENSE</a>.</p>
+<hr>
+<h2>🙏 Acknowledgments</h2>
+<ul>
+<li>Built with <a href="https://code.visualstudio.com/api">VS Code Extension API</a></li>
+<li>Icons from <a href="https://microsoft.github.io/vscode-codicons/">VS Code Codicons</a></li>
+<li>Inspired by OpenCode SDK (<code>@opencode-ai/vscode</code>)</li>
+</ul>
+5:["$","$L10",null,{"details":{"owner":"TARIKELER-TARNAK","repo":"codehub-vsc","description":"Terminal & AI coding agent manager for VS Code - one panel for all your agents, sessions and projects.","language":"TypeScript","stars":1,"forks":0,"homepage":null,"url":"https://github.com/TARIKELER-TARNAK/codehub-vsc","defaultBranch":"master","readme":"$11","tree":[{"path":".gitignore","name":".gitignore","type":"blob","size":82},{"path":".vscode","name":".vscode","type":"tree","size":"$undefined"},{"path":".vscode/launch.json","name":"launch.json","type":"blob","size":316},{"path":".vscode/tasks.json","name":"tasks.json","type":"blob","size":156},{"path":".vscodeignore","name":".vscodeignore","type":"blob","size":150},{"path":"LICENSE","name":"LICENSE","type":"blob","size":1066},{"path":"README.md","name":"README.md","type":"blob","size":6217},{"path":"media","name":"media","type":"tree","size":"$undefined"},{"path":"media/activity-icon-dark.svg","name":"activity-icon-dark.svg","type":"blob","size":659},{"path":"media/activity-icon-light.svg","name":"activity-icon-light.svg","type":"blob","size":647},{"path":"media/activity-icon.svg","name":"activity-icon.svg","type":"blob","size":222},{"path":"media/icon.png","name":"icon.png","type":"blob","size":775},{"path":"media/mark-dark.svg","name":"mark-dark.svg","type":"blob","size":405},{"path":"media/mark-light.svg","name":"mark-light.svg","type":"blob","size":325},{"path":"package-lock.json","name":"package-lock.json","type":"blob","size":87224},{"path":"package.json","name":"package.json","type":"blob","size":3495},{"path":"src","name":"src","type":"tree","size":"$undefined"},{"path":"src/extension.ts","name":"extension.ts","type":"blob","size":161841},{"path":"tsconfig.json","name":"tsconfig.json","type":"blob","size":322}],"license":"MIT License"},"readmeHtml":"$12","content":{"hero":{"name":"TARIK ELER","tagline":"Web Developer &amp; Creator","exploreLabel":"Explore Projects","connectLabel":"Let's Connect","emoji":"🚀"},"nav":{"ctaLabel":"GitHub","githubRepo":"https://github.com/TARIKELER-TARNAK","items":[{"title":"Projects","href":"/projects"},{"title":"GitHub","href":"/github"},{"title":"Blog","href":"/blog"},{"title":"Chat","href":"/chat"},{"title":"Contact","href":"/#contact"}]},"social":[{"name":"GitHub","href":"https://github.com/TARIKELER-TARNAK","icon":"mdi:github"},{"name":"Instagram","href":"https://www.instagram.com/","icon":"mdi:instagram"},{"name":"YouTube","href":"https://www.youtube.com/","icon":"mdi:youtube"},{"name":"TikTok","href":"https://www.tiktok.com/","icon":"ic:baseline-tiktok"}],"about":{"subtitle":"ABOUT ME","title":"A Glimpse Into My World","description":"Learn more about me, what I do, and what I'm passionate about.","whoTitle":"Who Am I?","whoText":"I'm a web developer who loves to code and build things. I'm passionate about web development, design, and technology.","toolboxTitle":"My Toolbox","toolboxDescription":"Explore the technologies I use to build projects and websites.","toolbox":[{"label":"Next.js","icon":"devicon:nextjs"},{"label":"Tailwind","icon":"devicon:tailwindcss"},{"label":"TypeScript","icon":"devicon:typescript"},{"label":"Docker","icon":"devicon:docker"},{"label":"PostgreSQL","icon":"devicon:postgresql"},{"label":"React","icon":"devicon:react"},{"label":"Node.js","icon":"devicon:nodejs"},{"label":"Git","icon":"devicon:git"},{"label":"C#","icon":"devicon:csharp"}],"beyondTitle":"Beyond the Code","beyondDescription":"Explore my interests, hobbies, and what I do when I'm not coding.","interests":[{"label":"Hardware","icon":"mdi:laptop","content":"I love building and tinkering with computers and other tech."},{"label":"Gaming","icon":"mdi:gamepad-variant","content":"I enjoy playing video games, especially with friends."},{"label":"Fitness","icon":"mdi:gym","content":"I like to stay active and go to the gym regularly."},{"label":"Music","icon":"mdi:music","content":"I'm a big fan of music and love discovering new artists and genres."},{"label":"Cybersecurity","icon":"mdi:shield-lock","content":"I enjoy pentesting, CTF challenges, and hunting for vulnerabilities on bug bounty platforms."}],"securityTitle":"Cybersecurity & CTF","securityText":"Passionate about cybersecurity. I enjoy learning new techniques and taking on security challenges.","securityTools":[{"label":"TryHackMe","icon":"simple-icons:tryhackme"},{"label":"HackerOne","icon":"simple-icons:hackerone"}]},"projects":{"subtitle":"PROJECTS","title":"Featured Projects","description":"A selection of projects I've worked on recently.","items":[{"title":"PixelShield","image":"/projects/pixelshield.png","description":"A DDoS protection service designed for Minecraft servers, offering protocol-aware filtering for Java, Bedrock, and Geyser servers.","projectLink":"https://www.pixelshield.net"},{"title":"Mythora.de","notice":"[Under Development]","image":"/projects/mythora.png","description":"A fully self-developed German Minecraft SMP network that welcomes players from all around the world.","projectLink":"https://mythora.de"},{"title":"Fruity Dev","notice":"[Under Development]","image":"/projects/fruity-dev.png","description":"Professional web development services, specializing in building high-quality, scalable web applications.","projectLink":"https://fruity.dev"},{"title":"Portfolio Website","notice":"[Current]","image":"/projects/portfolio.png","description":"This portfolio website showcases my skills, projects, and experiences. Built with Next.js and TypeScript.","projectLink":"/"}]},"github":{"subtitle":"GITHUB","title":"GitHub Projects","description":"My public repositories, pulled live from my GitHub profile."},"chat":{"subtitle":"CHAT","title":"Talk To Me","description":"Leave a message or just say hello. It shows up right away."},"profile":{"firstName":"TARIK","lastName":"ELER","displayName":"TARIKELER","nickname":"Tarnak","title":"Web Developer & Creator","profileImage":""},"contact":{"subtitle":"CONTACT","title":"Contact Me","description":"Feel free to reach out for collaborations or just a friendly hello!","footerText":"Don't be shy, whether it's a quick question, a big idea, or just saying hi","successTitle":"Message has been delivered!","successText":"Thank you for reaching out! I've received your message and will get back to you as soon as possible."},"settings":{"githubUsername":"TARIKELER-TARNAK","defaultTheme":"dark","backgroundImage":""},"footer":{"copyright":"TARIKELER"}}}]
