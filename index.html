@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Tarık Eler - Geliştirici | VS Code Eklentileri, Masaüstü Uygulamalar ve AI Coding Agent'lar" />
+<meta property="og:title" content="Tarık Eler | Portfolio" />
+<meta property="og:description" content="Geliştirici portfolyosu - projeler, yetenekler ve iletişim" />
+<title>Tarık Eler | Portfolio</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #1a5fb4;
+    --accent2: #58a6ff;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.6;
+  }
+  .container { max-width: 900px; margin: 0 auto; padding: 0 24px; }
+  header { padding: 80px 0 40px; text-align: center; }
+  .avatar {
+    width: 120px; height: 120px; border-radius: 50%;
+    border: 3px solid var(--accent2); object-fit: cover; margin-bottom: 20px;
+    background: var(--card);
+  }
+  h1 { font-size: 2.4rem; margin-bottom: 8px; }
+  .subtitle { color: var(--muted); font-size: 1.15rem; margin-bottom: 16px; }
+  .badges { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 12px; }
+  .badge {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 20px; padding: 4px 14px; font-size: 0.85rem; color: var(--accent2);
+  }
+  section { padding: 48px 0; }
+  h2 { font-size: 1.6rem; margin-bottom: 24px; border-bottom: 1px solid var(--border); padding-bottom: 10px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 20px; text-decoration: none; color: var(--text);
+    transition: transform .15s ease, border-color .15s ease; display: block;
+  }
+  .card:hover { transform: translateY(-3px); border-color: var(--accent2); }
+  .card h3 { color: var(--accent2); margin-bottom: 6px; font-size: 1.1rem; }
+  .card p { color: var(--muted); font-size: 0.92rem; }
+  .card .meta { margin-top: 10px; font-size: 0.8rem; color: var(--accent); }
+  .skills-list { display: flex; flex-wrap: wrap; gap: 10px; }
+  .skill {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 8px; padding: 10px 16px; font-size: 0.95rem;
+  }
+  footer { text-align: center; padding: 40px 0 60px; color: var(--muted); }
+  footer a { color: var(--accent2); text-decoration: none; }
+  .links { display: flex; gap: 16px; justify-content: center; margin-bottom: 16px; flex-wrap: wrap; }
+  .links a {
+    color: var(--accent2); text-decoration: none; border: 1px solid var(--border);
+    padding: 8px 20px; border-radius: 8px; background: var(--card);
+    transition: border-color .15s;
+  }
+  .links a:hover { border-color: var(--accent2); }
+</style>
+</head>
+<body>
+
+<header class="container">
+  <div class="avatar">👨‍💻</div>
+  <h1>Tarık Eler</h1>
+  <p class="subtitle">Geliştirici · VS Code Eklentileri · Masaüstü Uygulamalar · AI Coding Agent'lar</p>
+  <div class="badges">
+    <span class="badge">Python</span>
+    <span class="badge">TypeScript</span>
+    <span class="badge">JavaScript</span>
+    <span class="badge">Lua</span>
+    <span class="badge">HTML/CSS</span>
+    <span class="badge">VS Code Extension</span>
+    <span class="badge">Tkinter</span>
+  </div>
+</header>
+
+<section class="container">
+  <h2>🚀 Projelerim</h2>
+  <div class="grid">
+    <a class="card" href="https://github.com/TARIKTR1099/Player">
+      <h3>🎬 Player</h3>
+      <p>Müzik, video ve ses oynatıcı. Eklenti sistemi ve AI entegrasyonu ile 5 platformda çalışır.</p>
+      <div class="meta">⭐ #1 Projem</div>
+    </a>
+    <a class="card" href="https://github.com/TARIKTR1099/codehub-vsc">
+      <h3>🧩 CodeHub</h3>
+      <p>VS Code terminal ve AI agent yöneticisi. 14 hazır agent, oturum yönetimi ve proje takibi.</p>
+      <div class="meta">VS Code Extension</div>
+    </a>
+    <a class="card" href="https://github.com/TARIKTR1099/OfficeSetupWizard">
+      <h3>⚙️ Office Setup Wizard</h3>
+      <p>Microsoft Office LTSC 2024'ü tek tıkla kurup etkinleştiren Windows GUI aracı.</p>
+      <div class="meta">Python · Tkinter</div>
+    </a>
+    <a class="card" href="https://github.com/TARIKTR1099/Scribd-Download">
+      <h3>📄 Scribd-Download</h3>
+      <p>Scribd belgelerini yüksek kalitede indirmenizi sağlayan tarayıcı eklentisi.</p>
+      <div class="meta">Chrome Extension</div>
+    </a>
+    <a class="card" href="https://github.com/TARIKTR1099/TarnakLua-Roblox">
+      <h3>🎮 TarnakLua-Roblox</h3>
+      <p>Rayfield UI tabanlı Roblox Lua aracı.</p>
+      <div class="meta">Lua · Roblox</div>
+    </a>
+    <a class="card" href="https://github.com/TARIKTR1099/AI-Jailbreak">
+      <h3>🔬 AI-Jailbreak</h3>
+      <p>AI model güvenlik sınırlarını test etmek için prompt koleksiyonu.</p>
+      <div class="meta">Güvenlik Araştırması</div>
+    </a>
+  </div>
+</section>
+
+<section class="container">
+  <h2>🛠️ Yetenekler</h2>
+  <div class="skills-list">
+    <span class="skill">🐍 Python & Tkinter</span>
+    <span class="skill">🧩 VS Code Extension Geliştirme</span>
+    <span class="skill">🌐 HTML / CSS / JavaScript</span>
+    <span class="skill">🤖 AI Agent Entegrasyonu</span>
+    <span class="skill">🎮 Lua Scripting</span>
+    <span class="skill">📦 PyInstaller / Derleme</span>
+  </div>
+</section>
+
+<footer class="container">
+  <div class="links">
+    <a href="https://github.com/TARIKTR1099">GitHub</a>
+    <a href="https://github.com/TARIKTR1099/TARIKTR1099">Profil Repom</a>
+  </div>
+  <p>© <span id="year"></span> Tarık Eler · İş birliği ve yeni projeler için bana ulaşabilirsin</p>
+</footer>
+
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
