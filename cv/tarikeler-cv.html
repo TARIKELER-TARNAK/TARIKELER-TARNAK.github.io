@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>TARIK ELER - CV</title>
+<style>
+  :root {
+    --ink: #18181b;
+    --muted: #52525b;
+    --line: #e4e4e7;
+    --accent: #0761d5;
+    --amber: #b45309;
+    --green: #047857;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: var(--ink);
+    background: #fafafa;
+    font-size: 13px;
+    line-height: 1.5;
+    padding: 32px;
+  }
+  .page {
+    max-width: 794px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 40px 44px;
+  }
+  header { display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2px solid var(--ink); padding-bottom: 16px; }
+  h1 { font-size: 30px; letter-spacing: 1px; }
+  h1 span { color: var(--accent); }
+  .tagline { color: var(--muted); font-weight: 600; margin-top: 4px; }
+  .contact { text-align: right; font-size: 12px; color: var(--muted); }
+  .contact a { color: var(--accent); text-decoration: none; }
+  h2 {
+    font-size: 13px; text-transform: uppercase; letter-spacing: 2px;
+    margin: 22px 0 10px; padding-bottom: 5px; border-bottom: 1px solid var(--line);
+    color: var(--accent);
+  }
+  .summary { color: var(--muted); }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .skill { display: inline-block; border: 1px solid var(--line); border-radius: 999px; padding: 3px 12px; margin: 0 6px 6px 0; font-size: 12px; background: #f4f4f5; }
+  .job { margin-bottom: 12px; }
+  .job .head { display: flex; justify-content: space-between; align-items: baseline; }
+  .job .role { font-weight: 700; font-size: 13.5px; }
+  .job .period { color: var(--amber); font-size: 11.5px; font-weight: 600; white-space: nowrap; margin-left: 8px; }
+  .job .org { color: var(--green); font-weight: 600; font-size: 12.5px; }
+  .job p { color: var(--muted); margin-top: 3px; }
+  ul.clean { list-style: none; }
+  ul.clean li { padding-left: 16px; position: relative; margin-bottom: 5px; color: var(--muted); }
+  ul.clean li::before { content: '▸'; position: absolute; left: 0; color: var(--accent); }
+  .badges { margin-top: 14px; }
+  @media print {
+    body { background: #fff; padding: 0; }
+    .page { border: none; border-radius: 0; max-width: none; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div>
+      <h1>TARIK <span>ELER</span></h1>
+      <div class="tagline">Web Geliştirici & İçerik Üretici — Tarnak</div>
+    </div>
+    <div class="contact">
+      GitHub: <a href="https://github.com/TARIKELER-TARNAK">github.com/TARIKELER-TARNAK</a><br>
+      Web: <a href="https://tarikeler-tarnak.github.io">tarikeler-tarnak.github.io</a><br>
+      Siber Güvenlik & CTF: TryHackMe · HackerOne
+    </div>
+  </header>
+
+  <h2>Özet</h2>
+  <p class="summary">Next.js, TypeScript ve yapay zeka ile modern, uçtan uca web deneyimleri üreten web geliştirici. Tasarımdan deploy'a — insanların kullandığı ürünler geliştiriyorum. 10+ proje, 15+ teknoloji.</p>
+
+  <h2>Yetenekler</h2>
+  <div>
+    <span class="skill">Next.js</span><span class="skill">Tailwind CSS</span><span class="skill">TypeScript</span><span class="skill">React</span><span class="skill">Node.js</span><span class="skill">PostgreSQL</span><span class="skill">Docker</span><span class="skill">Git</span><span class="skill">C#</span><span class="skill">SIEM / SIEM</span>
+  </div>
+
+  <h2>Deneyim</h2>
+  <div class="grid">
+    <div>
+      <div class="job">
+        <div class="head"><span class="role">Kurucu & Full-Stack Geliştirici</span><span class="period">Aktif</span></div>
+        <div class="org">Fruity Dev</div>
+        <p>Profesyonel web geliştirme hizmetleri — yüksek kaliteli, ölçeklenebilir web uygulamaları.</p>
+      </div>
+      <div class="job">
+        <div class="head"><span class="role">Sahip & Geliştirici</span><span class="period">Aktif</span></div>
+        <div class="org">Mythora.de</div>
+        <p>Dünyanın her yerinden oyuncuları ağırlayan, tamamen kendi geliştirdiğim Almanca Minecraft SMP ağı.</p>
+      </div>
+    </div>
+    <div>
+      <div class="job">
+        <div class="head"><span class="role">Geliştirici</span><span class="period">Aktif</span></div>
+        <div class="org">PixelShield</div>
+        <p>Minecraft sunucuları için DDoS koruma hizmeti — Java, Bedrock ve Geyser için protokol duyarlı filtreleme.</p>
+      </div>
+      <div class="job">
+        <div class="head"><span class="role">Geliştirici</span><span class="period">Devam ediyor</span></div>
+        <div class="org">Portfolyo & GitHub Projeleri</div>
+        <p>Tarayıcı eklentileri ve AI araçları: Scribd-Download, AI-Jailbreak, Accentra, CodeHub, TarnakLua ve daha fazlası.</p>
+      </div>
+    </div>
+  </div>
+
+  <h2>Eğitim</h2>
+  <div class="job">
+    <div class="head"><span class="role">Kendi Kendini Yetiştiren Geliştirici</span><span class="period">Sürekli</span></div>
+    <div class="org">Bilgisayar Bilimi & Yazılım Mühendisliği</div>
+    <p>Web geliştirme, siber güvenlik, CTF ve bug bounty platformları üzerinde uygulamalı öğrenme.</p>
+  </div>
+
+  <h2>Kodun Ötesinde</h2>
+  <ul class="clean">
+    <li>Donanım: bilgisayar kurma ve teknolojiyle uğraşma</li>
+    <li>Oyun: özellikle arkadaşlarla multiplayer oyunlar</li>
+    <li>Spor: düzenli antrenman ve aktif yaşam</li>
+    <li>Müzik: yeni sanatçılar ve türler keşfetmek</li>
+    <li>Siber Güvenlik: pentest, CTF yarışmaları, bug bounty platformlarında zafiyet avlama</li>
+  </ul>
+
+  <div class="badges">
+    <span class="skill">TryHackMe</span><span class="skill">HackerOne</span><span class="skill">Git</span><span class="skill">Docker</span>
+  </div>
+</div>
+</body>
+</html>

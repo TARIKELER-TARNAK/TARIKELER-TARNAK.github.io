@@ -1,0 +1,196 @@
+{
+  "success": true,
+  "profile": {
+    "login": "TARIKELER-TARNAK",
+    "name": "Tarık Eler",
+    "bio": "Tarık Eler (Tarnak) - Developer · AI & Machine Learning · desktop apps · Türkiye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184168415?v=4",
+    "publicRepos": 10,
+    "followers": 1
+  },
+  "repos": [
+    {
+      "name": "TARIKELER-TARNAK.github.io",
+      "fullName": "TARIKELER-TARNAK/TARIKELER-TARNAK.github.io",
+      "description": "Personal portfolio website.",
+      "url": "https://github.com/TARIKELER-TARNAK/TARIKELER-TARNAK.github.io",
+      "language": "HTML",
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "topics": [
+        "github-pages",
+        "html",
+        "personal-website",
+        "portfolio"
+      ],
+      "updatedAt": "2026-09-14T16:24:26Z"
+    },
+    {
+      "name": "db-public",
+      "fullName": "TARIKELER-TARNAK/db-public",
+      "description": "Tarnak OpenCode dagitim paketi (PUBLIC)",
+      "url": "https://github.com/TARIKELER-TARNAK/db-public",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "topics": [],
+      "updatedAt": "2026-09-11T10:21:16Z"
+    },
+    {
+      "name": "AI-Jailbreak",
+      "fullName": "TARIKELER-TARNAK/AI-Jailbreak",
+      "description": "AI model safety-limit testing prompt collection.",
+      "url": "https://github.com/TARIKELER-TARNAK/AI-Jailbreak",
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 1,
+      "watchers": 5,
+      "topics": [
+        "ai",
+        "llm",
+        "prompt",
+        "red-team",
+        "security"
+      ],
+      "updatedAt": "2026-09-09T03:26:05Z"
+    },
+    {
+      "name": "Accentra",
+      "fullName": "TARIKELER-TARNAK/Accentra",
+      "description": "Accentra",
+      "url": "https://github.com/TARIKELER-TARNAK/Accentra",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "topics": [
+        "2fa",
+        "accentra",
+        "account",
+        "account-manager",
+        "bot",
+        "browser",
+        "email",
+        "email-manager",
+        "mcp",
+        "messaging",
+        "password",
+        "password-manager",
+        "productivity",
+        "security",
+        "workspace"
+      ],
+      "updatedAt": "2026-09-09T00:40:32Z"
+    },
+    {
+      "name": "codehub-vsc",
+      "fullName": "TARIKELER-TARNAK/codehub-vsc",
+      "description": "Terminal & AI coding agent manager for VS Code - one panel for all your agents, sessions and projects.",
+      "url": "https://github.com/TARIKELER-TARNAK/codehub-vsc",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "developer-tools",
+        "opencode",
+        "terminal",
+        "vscode-extension"
+      ],
+      "updatedAt": "2026-09-04T13:24:20Z"
+    },
+    {
+      "name": "TarnakLua-Roblox",
+      "fullName": "TARIKELER-TARNAK/TarnakLua-Roblox",
+      "description": "Roblox Lua tools and scripts.",
+      "url": "https://github.com/TARIKELER-TARNAK/TarnakLua-Roblox",
+      "language": "Lua",
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "topics": [
+        "game",
+        "lua",
+        "roblox",
+        "scripting"
+      ],
+      "updatedAt": "2026-09-04T13:24:18Z"
+    },
+    {
+      "name": "Scribd-Download",
+      "fullName": "TARIKELER-TARNAK/Scribd-Download",
+      "description": "Scribd document downloader browser extension - high quality PDF export.",
+      "url": "https://github.com/TARIKELER-TARNAK/Scribd-Download",
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "watchers": 5,
+      "topics": [
+        "browser-extension",
+        "chrome-extension",
+        "downloader",
+        "pdf",
+        "scribd"
+      ],
+      "updatedAt": "2026-09-04T13:24:17Z"
+    },
+    {
+      "name": "TARIKELER-TARNAK",
+      "fullName": "TARIKELER-TARNAK/TARIKELER-TARNAK",
+      "description": "GitHub profile README",
+      "url": "https://github.com/TARIKELER-TARNAK/TARIKELER-TARNAK",
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "topics": [],
+      "updatedAt": "2026-09-04T13:24:15Z"
+    },
+    {
+      "name": "OfficeSetupWizard",
+      "fullName": "TARIKELER-TARNAK/OfficeSetupWizard",
+      "description": "One-click Microsoft Office LTSC Professional Plus 2024 installation & activation (Office Deployment Tool wrapper).",
+      "url": "https://github.com/TARIKELER-TARNAK/OfficeSetupWizard",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "topics": [
+        "automation",
+        "deployment",
+        "gui",
+        "office",
+        "python",
+        "tkinter",
+        "windows"
+      ],
+      "updatedAt": "2026-09-04T13:24:14Z"
+    },
+    {
+      "name": "Player",
+      "fullName": "TARIKELER-TARNAK/Player",
+      "description": "Modern, cross-platform media player with music, video, audio, plugins and AI integration.",
+      "url": "https://github.com/TARIKELER-TARNAK/Player",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 1,
+      "watchers": 3,
+      "topics": [
+        "ai",
+        "audio",
+        "cross-platform",
+        "desktop-app",
+        "media-player",
+        "music",
+        "plugins",
+        "video"
+      ],
+      "updatedAt": "2026-08-03T16:52:09Z"
+    }
+  ]
+}
