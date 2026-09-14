@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/33o5of41y7rhp.css","style"]
-:HL["/_next/static/chunks/0m_t911tr3fw5.css","style"]
+:HL["/_next/static/chunks/1rzsb_dke3yrs.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4120,"slots":{"children":{"name":"github","param":null,"prefetchHints":4164,"slots":{"children":{"name":"owner","param":{"type":"d","key":"TARIKELER-TARNAK","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"_9qiihkU-Sf5EqAODwNe6"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4120,"slots":{"children":{"name":"github","param":null,"prefetchHints":4164,"slots":{"children":{"name":"owner","param":{"type":"d","key":"TARIKELER-TARNAK","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"zTnjXuqPggNPv7IRja-M8"}
